@@ -5,9 +5,9 @@ Goal: **Finish strong + build toward half-marathon benchmark (21K ~1h35)**
 Notes: 
 - **Swim starts Week 4 (beginner)**.  
 - Long bike is **always Thursday**.  
-- **One brick per week**.  
-- Gym **Tue (lower/core)** & **Fri (upper/mobility)**.  
-- Bike Z2 validated at **HR 120–130** with **cadence 80–90 rpm**.  
+- **One brick per week**.
+- Gym **Tue (lower/core)** & **Fri (upper/mobility)**.
+- Bike Z2 validated at **HR 120–130** with **cadence 80–90 rpm**.
 
 ---
 
@@ -77,144 +77,97 @@ Builds early consistency, checks comfortable Z2 pacing, and sets form cues for c
 
 ---
 
-## Week 1 (Tue Sep 30 – Sun Oct 5) — Special case (Saturday 5K)
+# Week 1 (Mon Sep 29 – Sun Oct 5) — Adjusted with Actuals + Trail Event
+
 **Weekly Focus**  
-Reboot + calibrate pacing; introduce brick; make Z2 feel automatic.  
+Adapt and absorb. Early-week aerobic calibration, mid-week mountain ride, capped with a long 25K trail event. Balance recovery to prevent overload.
 
 **Why it matters**  
-A consistent aerobic base enables later tempo/threshold without excess fatigue; brick prepares legs for the bike→run transition.  
+Confirms Z2 HR/pace zones, builds muscular endurance on hills, and simulates race conditions with the long trail run. Recovery on Sunday ensures adaptation.
 
-### Mon (Sep 29) — Rest / Mobility  
-- **Optional:** 20–25min yoga/stretch; easy walk.  
+### Mon (Sep 29) — Rest / Mobility
+- Optional 20–25min yoga/stretch or easy walk.
 
-### Tue (Sep 30) — Bike 60min Drills + Endurance + Gym (PM)  
-**Bike (AM)**  
-- **WU:** 15min Z1–Z2 spin, cadence 85–90.  
-- **Main**  
-  - 4 × 5min spin-ups @ 95–105 rpm (stay Z2) w/ 2min Z1 easy.  
-  - 25min Z2 HR 120–130 @ 80–90 rpm.  
-- **CD:** 5–10min easy spin Z1.  
+### Tue (Sep 30) — Bike 60min Drills + Endurance (Completed) + Gym (PM)
+- **Actual:** 19.2 km, +277 m, HR avg 120 bpm (Z2), cadence 76 rpm avg (spin-ups peaked 110+).
+- **WU:** 15min Z1–Z2 spin, cadence 85–90.
+- **Main:** 4 × 5min spin-ups @ 95–105 rpm (stay Z2) w/ 2min Z1 easy; then 25min Z2 **HR 120–130** @ 80–90 rpm.
+- **CD:** 5–10min easy spin Z1.
+- **Gym (Lower/Core, 30–40min):** Squats 3×8; Lunges 3×10/leg; RDL 3×8; **Core 2–3 rounds:** Plank **45s**, Side plank **30s/side**, Bird-dogs 8/side.
 
-**Gym (PM, Lower/Core, 30–40min)**  
-- Squats 3×8  
-- Lunges 3×10/leg  
-- RDL 3×8  
-- Core 2–3 rounds:  
-  - Plank 45s  
-  - Side plank 30s/side  
-  - Bird-dogs 8/side
+### Wed (Oct 1) — Run 40–45min Z2 (Completed)
+- **Actual:** 5.30 km in 45:47 (8:38/km), HR avg 134 bpm (Z2), cadence 158 spm.
+- **WU:** 10min jog ≤ 8:50/km + mobility.
+- **Main:** 25min steady **Z2 8:20–8:45/km** (HR ~130–135).
+- **CD:** 10min easy jog ≤ 8:50/km.
 
-### Wed (Oct 1) — Run 40min Z2  
-- **WU:** 10min jog ≤8:50/km.  
-- **Main:** 25min steady **Z2 8:20–8:45/km**.  
-- **CD:** 5min easy jog/walk ≤8:50/km.  
+### Thu (Oct 2) — Bike 1h40 Trail/Mountain Ride (Completed)
+- **Actual:** 20.56 km, +331 m, HR avg 127 bpm (Z2), HR max 161 (Z4 on climbs), cadence 67 rpm avg; Aerobic TE 3.1; RPE 8/10.
+- **Note:** Harder than a steady endurance ride (more strength‑endurance from low-cadence climbing).
 
-### Thu (Oct 2) — Bike 75min Endurance (Long Bike)  
-- **WU:** 10min Z1 spin.  
-- **Main:** 60min continuous **Z2 HR 120–130**, cadence 80–90 rpm (include rolling terrain; stay seated on climbs).  
-- **CD:** 5min Z1 spin.  
+### Fri (Oct 3) — Run 30–35min Easy Z2 + Gym (PM)
+- **WU:** 8–10min jog ≤ 8:50/km.
+- **Main:** 15–20min steady **Z2 8:30–8:45/km** (HR ~130–135).
+- **CD:** 5min easy jog/walk.
+- **Gym (Upper/Mobility, lighter 30–40min):** Push-ups 3×12; Rows (band/light) 3×12; OHP 3×10; Shoulder/hip mobility 8–10min.
 
-### Fri (Oct 3) — Run 35min Progression + Gym (PM)  
-**Run (AM)**  
-- **WU:** 10min jog ≤8:50/km + light mobility.  
-- **Main:** 20min **progression** — start Z2 (8:20–8:45/km) and smoothly build to **Z3 (7:30–8:00/km)** by the end.  
-- **CD:** 5min jog/walk ≤8:50/km.  
+### Sat (Oct 4) — Trail Run Event (~25 km, ~3h, +400 m)
+- **Format:** Formal start (no WU/CD). Self-sufficient (carry fluids/nutrition).
+- **Effort Targets:** Flats/rolling **Z2 HR 130–140**; sustained sections **Z3 141–150**; short climbs may touch **Z4 151–160** (controlled). 
+- **Fuel:** 200–250 kcal/hour; 500–750 ml fluids/hour. 
+- **Goal:** Strong, steady finish; protect quads on descents.
 
-**Gym (PM, Upper/Mobility, 30–40min)**  
-- Push-ups 3×10–12  
-- Dumbbell row 3×10/side  
-- Overhead press 3×8  
-- Mobility circuit 2–3 rounds:  
-  - Cat–cow 6–8  
-  - Shoulder dislocates (band) 8–10  
-  - World’s greatest stretch 5/side  
-
-### Sat (Oct 4) — **5K Race (~35min, controlled)**  
-- No dedicated WU/CD → ease into effort during first km.  
-- **Target pace:** ~ **7:00/km** (finish ≈ 35:00).  
-- **Pacing strategy:**  
-  - **Km 1:** Start relaxed ~7:15–7:20/km, settle in.  
-  - **Km 2–3:** Lock into ~7:00/km, steady rhythm.  
-  - **Km 4:** Controlled focus, allow 6:50–6:55/km if feeling good.  
-  - **Km 5:** Finish smooth, 6:45–6:50/km if energy allows.  
-- **Reminder:** Goal is controlled race effort, not all-out — finish strong but comfortable.  
-
-### Sun (Oct 5) (Sep 28) — Bike 45min Z2 → Run 15min easy)  
-**Bike**  
-- **WU:** 10min Z1–Z2 spin.  
-- **Main:** 30min steady **Z2 HR 120–130**, cadence 85–90 rpm.  
-- **CD:** 5min easy spin.  
-
-**Transition ≤5min**  
-
-**Run**  
-- **WU:** first 3min easy jog ≤8:50/km.  
-- **Main:** 12min relaxed **Z2 8:20–8:45/km**.
+### Sun (Oct 5) — Recovery
+- **Option A:** 20–30min very easy spin (Z1, HR <115, relaxed cadence).
+- **Option B:** 20–25min walk/jog ≤ 8:50/km.
+- **Plus:** 15–20min mobility/stretch. No extra load.
 
 ---
 
-## Week 2 (Mon Oct 6 – Sun Oct 12)
+# Week 2 (Mon Oct 6 – Sun Oct 12) — Adjusted
+
 **Weekly Focus**  
-Build on aerobic base; add structured intervals on bike; introduce short tempo run.  
+Recover from Week 1’s heavy trail load while maintaining aerobic rhythm.
 
 **Why it matters**  
-Controlled intensity teaches efficiency and sets foundation for sustainable threshold later.  
+Too much intensity/volume after a 25K trail run risks injury. This week balances easy aerobic sessions with one steady long ride and a short brick.
 
-### Mon (Sep 29) — Rest / Mobility  
-- 20–25min yoga or stretching.  
+### Mon (Oct 6) — Rest / Mobility
+- Full rest. Optional 20–25min stretch/yoga.
 
-### Tue (Sep 30) — Bike 70min Tempo Intervals + Gym (PM)  
-**Bike (AM)**  
-- **WU:** 15min Z1–Z2 spin.  
-- **Main:** 5 × 6min @ **Z3 HR 136–150**, cadence 85–90 rpm w/ 3min Z1 recovery.  
-- **CD:** 10min Z1 spin.  
+### Tue (Oct 7) — Bike 60min Z2 + Gym (PM)
+- **WU:** 15min easy Z1–Z2 spin.
+- **Main:** 35min steady **Z2 HR 120–130**, cadence 80–90.
+- **CD:** 10min Z1 spin.
+- **Gym (Lower/Core, lighter 30–40min):** Squats 3×8 bodyweight/goblet; Step-ups 3×10/leg; RDL 3×8.
+- **Core 2–3 rounds:** Plank **45s**, Side plank **30s/side**, Bird-dogs 8/side.
 
-**Gym (PM, Lower/Core, 35min)**  
-- Squats 3×8  
-- Step-ups 3×10/leg  
-- RDL 3×8  
-- Core (plank 45s, side plank 30s/side, dead-bug 8/side).  
+### Wed (Oct 8) — Run 35–40min Easy Z2
+- **WU:** 10min jog ≤ 8:50/km.
+- **Main:** 20–25min steady **Z2 8:30–8:45/km** (HR 130–135).
+- **CD:** 5min jog/walk.
 
-### Wed (Oct 1) — Run 40min Z2  
-- **WU:** 10min jog.  
-- **Main:** 25min **Z2 8:20–8:45/km** steady.  
-- **CD:** 5min walk/jog.  
+### Thu (Oct 9) — Bike 90min Endurance (Long Thursday)
+- **WU:** 15min easy spin.
+- **Main:** 60min steady **Z2 HR 120–130**, cadence 80–90, gentle terrain only (no extra Z3 blocks this week).
+- **CD:** 15min easy spin.
 
-### Thu (Oct 2) — Bike 80min Endurance (Long Bike)  
-- **WU:** 10min Z1 spin.  
-- **Main:** 65min steady **Z2 HR 120–130**, cadence 80–90 rpm. Include 4 × 1min cadence drills (95–100 rpm) w/ 2min Z1 spin.  
-- **CD:** 5min easy.  
+### Fri (Oct 10) — Run 30min Z2 + Gym (PM)
+- **WU:** 10min jog ≤ 8:50/km.
+- **Main:** 15min **Z2** steady (keep it easy).
+- **CD:** 5min jog/walk.
+- **Gym (Upper/Mobility, light 30–40min):** Push-ups 3×12; Rows 3×10; OHP 3×8; Shoulder/hip mobility 10min.
 
-### Fri (Oct 3) — Run 35min Tempo + Gym (PM)  
-**Run (AM)**  
-- **WU:** 10min jog.  
-- **Main:** 20min @ **Z3 7:30–8:00/km**, strong but controlled.  
-- **CD:** 5min jog.  
+### Sat (Oct 11) — Brick (Shortened)
+- **Bike:** 40min **Z2 HR 120–130**, cadence 80–90 (WU 5–10min roll-in; CD easy to transition).
+- **Transition:** ≤ 5min.
+- **Run:** 10min **Z2 8:30–8:45/km** (WU/CD 3–5min easy as needed).
 
-**Gym (PM, Upper/Mobility)**  
-- Bench press 3×8  
-- Pull-ups or band row 3×8  
-- Overhead press 3×8  
-- Mobility flow 2–3 rounds (hip openers, thoracic rotations, cat–cow).  
-
-### Sat (Oct 4) — Brick (Bike 50min Z2 → Run 20min Z2)  
-**Bike**  
-- **WU:** 10min Z1.  
-- **Main:** 35min steady **Z2 HR 120–130**, cadence 85–90 rpm.  
-- **CD:** 5min Z1.  
-
-**Transition ≤5min**  
-
-**Run**  
-- **WU:** 5min easy jog.  
-- **Main:** 15min steady **Z2 8:20–8:45/km**.  
-- **CD:** walk/jog.  
-
-### Sun (Oct 5) — Run 55min Endurance  
-- **WU:** 10min jog.  
-- **Main:** 40min steady Z2, include 6 × 20s strides w/ 90s walk.  
-- **CD:** 5min jog.  
-
+### Sun (Oct 12) — Recovery Run 45min
+- **WU:** 10min jog ≤ 8:50/km.
+- **Main:** 30min steady **Z2** (HR 130–135, ~8:35–8:45/km).
+- **CD:** 5min easy.
+- **Note:** Replaces the usual long run; aerobic stimulus without extra stress.
 ---
 
 ## Week 3 (Mon Oct 13 – Sun Oct 19)
