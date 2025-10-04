@@ -8,8 +8,8 @@ I am training for a **Sprint Triathlon on Dec 5**.
 - Build fitness toward a half-marathon benchmark (~21K in 1h35).  
 
 **Rules for the plan:**  
-- Plan is **10 weeks, Monday → Sunday**, with a **Pre-Week** starting on Sunday before Week 1.  
-- **Swim starts on Week 4** (beginner).  
+- Plan is **10 weeks, Monday → Sunday**, with a **Pre-Week** before Week 1.  
+- **Swim starts** (beginner).  
 - Include **1 brick per week**.  
 - Long bike is **always Thursday**.  
 - Gym is **Tuesday (lower/core)** and **Friday (upper/mobility)**.  
